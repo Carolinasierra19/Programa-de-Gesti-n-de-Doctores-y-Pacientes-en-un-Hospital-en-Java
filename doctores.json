@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Dr. Smith",
+    "idMedico": 1,
+    "especialidad": "Cardiología",
+    "pacientesAtendidos": [
+      {
+        "idPaciente": 101,
+        "nombre": "John Doe",
+        "fechaIngreso": "2023-10-28"
+      }
+    ]
+  },
+  {
+    "nombre": "Dr. Johnson",
+    "idMedico": 2,
+    "especialidad": "Pediatría",
+    "pacientesAtendidos": []
+  },
+  {
+    "nombre": "Dr. Smith",
+    "idMedico": 1,
+    "especialidad": "Cardiología",
+    "pacientesAtendidos": [
+      {
+        "idPaciente": 101,
+        "nombre": "John Doe",
+        "fechaIngreso": "2023-10-28"
+      }
+    ]
+  },
+  {
+    "nombre": "Dr. Johnson",
+    "idMedico": 2,
+    "especialidad": "Pediatría",
+    "pacientesAtendidos": []
+  }
+]
